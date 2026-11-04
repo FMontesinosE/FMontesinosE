@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola a todos! 
 
 I'm a bioinformatician and computational biologist working with genomic data. I build tools for analyzing large-scale biological datasets, mostly in Rust and Python.
 
